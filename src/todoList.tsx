@@ -41,7 +41,7 @@ const TodoList = (props: TodoListProps) => {
 
   return (
     <>
-      <h1 style={{ textAlign: "center" }}>This is My todo Llst App</h1>
+      <h1 style={{ textAlign: "center" }}>This is My todo List App</h1>
       <div style={{ display: "flex", justifyContent: "center", gap: "5px" }}>
         <input
           type="text"
